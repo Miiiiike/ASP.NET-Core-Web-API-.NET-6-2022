@@ -1,0 +1,4 @@
+-One to Many
+-Many to One
+
+ICollection cannot be edited
